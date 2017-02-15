@@ -1,0 +1,7 @@
+{
+  "name": "Spring Boot Spring Security Basic",
+  "description": "BasicSecurity - Default Spring Boot and Spring Security.",
+  "repository": "https://github.com/Solomon-Alexander/spring-boot-spring-security-basic.git",
+  "keywords": ["spring boot", "identity", "security", "authentication"],
+  "success_url": "/"
+}
